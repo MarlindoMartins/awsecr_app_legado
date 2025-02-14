@@ -1,2 +1,2 @@
 # awsecr_app_legado
-Microserviço para execução de aplicações legadas do MP-AP
+MicrosServiço para execução de aplicações legadas do MP-AP
